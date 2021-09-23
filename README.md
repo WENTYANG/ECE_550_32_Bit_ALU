@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # addsub-base
 Yang Wenting          wy77
 Liu Mengqi            ml607
@@ -40,3 +41,7 @@ Finally, we could use a xor gate to obtain the final overflow.
 
 
 
+=======
+# computer-system
+alu project
+>>>>>>> 1e339c65498bb7441edfec3402ae0c40f43f3cd7
